@@ -31,9 +31,9 @@ Step 1: git config --global user.email "youremail@example.com"
 
 Step 2: git config --global user.name "Your Name"
 
-Step 3: git clone https://github.com/it21206832/FDM-Project-G29.git
+Step 3: git clone https://github.com/Arunika-Gamage/Diabetes-Prediction-System.git
 
-Step 4: cd FDM-Project-G29
+Step 4: cd Diabetes-Prediction-System
 
 Step 5: pip install -r requirements.txt
 
